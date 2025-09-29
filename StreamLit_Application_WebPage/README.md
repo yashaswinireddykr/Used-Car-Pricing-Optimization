@@ -111,7 +111,7 @@ Data Input → Preprocessing → Brand-Specific Model → Price Prediction
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/VijayAtheli1709/Multi-Brand-ML-Prediction-Engine.git
+git clone https://github.com/yashaswinireddykr/Used-Car-Pricing-Optimization.git
 cd Multi-Brand-ML-Prediction-Engine
 
 # Install dependencies
