@@ -4,7 +4,7 @@ This project is designed to predict the prices of used cars across **nine major 
 
 ## Application Demo
 
-Watch the multi-brand car price prediction engine in action:
+Watch the multi-brand car price prediction engine in action: 
 
 <video width="800" controls>
   <source src="Application Demo.mp4" type="video/mp4">
