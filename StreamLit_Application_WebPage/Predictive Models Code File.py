@@ -18,7 +18,7 @@ VW_df = df.loc[df['Brand']=='VW']
 Hyundai_df = df.loc[df['Brand']=='Hyundai']
 Skoda_df = df.loc[df['Brand']=='Skoda']
 
-print(VW_df)
+print(VW_df) 
 
 #VW
 VW_df.info()
@@ -598,3 +598,4 @@ for brands like Mercedes and Audi with diverse lineups.
 The combination of modeling and visual diagnostics provides a robust approach 
 to understanding and forecasting vehicle pricing.
 '''
+
