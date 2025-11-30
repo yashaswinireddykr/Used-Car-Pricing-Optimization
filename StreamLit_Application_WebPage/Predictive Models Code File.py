@@ -12,7 +12,7 @@ df = pd.read_excel('Final_dataset.xlsx')
 
 df.columns
 
-df['Brand'].unique()
+df['Brand'].unique()  
 
 VW_df = df.loc[df['Brand']=='VW']
 Hyundai_df = df.loc[df['Brand']=='Hyundai']
@@ -598,4 +598,5 @@ for brands like Mercedes and Audi with diverse lineups.
 The combination of modeling and visual diagnostics provides a robust approach 
 to understanding and forecasting vehicle pricing.
 '''
+
 
