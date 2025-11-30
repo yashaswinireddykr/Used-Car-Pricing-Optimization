@@ -2,7 +2,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-dataframe_vw = pd.read_csv('vw.csv')
+dataframe_vw = pd.read_csv('vw.csv') 
 dataframe_audi = pd.read_csv('audi.csv')
 dataframe_bmw = pd.read_csv('bmw.csv')
 dataframe_ford = pd.read_csv('ford.csv')
@@ -72,4 +72,5 @@ sns.heatmap(
 
 plt.title("Correlation of 'price' with Other Numerical Features", fontsize=14)
 plt.tight_layout()
+
 plt.show()
