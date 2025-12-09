@@ -33,7 +33,7 @@ print(df['tax'].isnull().sum())  # After filling
 # Drop rows where 'tax' is still missing
 df = df.dropna(subset=['tax'])
 
-# Strip whitespace from 'model' column
+# Strip whitespace from 'model' column 
 df['model'] = df['model'].str.strip()
 
 # Filter 'year' column to keep values only between 1999 and 2025
@@ -74,4 +74,5 @@ plt.title("Correlation of 'price' with Other Numerical Features", fontsize=14)
 plt.tight_layout()
 
 plt.show()
+
 
