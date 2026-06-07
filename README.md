@@ -244,4 +244,4 @@ This project showcases expertise in:
 
 For questions, suggestions, or collaboration opportunities, please feel free to reach out through the repository's issues section or contact information provided in the GitHub profile.
 
-**Repository**: [Multi-Brand-ML-Prediction-Engine](https://github.com/VijayAtheli1709/Multi-Brand-ML-Prediction-Engine)
+**Repository**: [Used-Car-Pricing-Optimization](https://github.com/yashaswinireddykr/Used-Car-Pricing-Optimization)
